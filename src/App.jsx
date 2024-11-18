@@ -1,5 +1,5 @@
 import Wallet from "./wallet";
-import './app.css';
+import './App.css';
 function App(){
   return(
     <div className="app">
